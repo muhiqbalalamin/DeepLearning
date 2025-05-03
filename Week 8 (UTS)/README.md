@@ -1,4 +1,4 @@
-# 🎣 Fish Image Classification & Tabular MLP Regression/Classification using PyTorch
+#  Fish Image Classification & Tabular MLP Regression/Classification using PyTorch
 
 This repository contains two deep learning pipelines using PyTorch:
 1. **Image Classification of Fish Species** using CNN & Transfer Learning (MobileNetV2)
@@ -16,7 +16,7 @@ This repository contains two deep learning pipelines using PyTorch:
 
 ---
 
-## 🐟 1. Fish Image Classification with CNN & MobileNetV2
+##  1. Fish Image Classification with CNN & MobileNetV2
 
 ### ✅ Features
 - Image augmentations (rotation, crop, flip, color jitter)
@@ -53,7 +53,7 @@ FishImgDataset/
 
 ---
 
-## 📈 2. Tabular Data Regression & Classification with MLP
+##  2. Tabular Data Regression & Classification with MLP
 
 ### 🔢 Dataset
 - `RegresiUTSTelkom.csv`
